@@ -37,7 +37,7 @@
         "Static"
       ],
       "metadata": {
-        "description": "Allocation method for the Public IP used to access the Virtual Machine."
+        "description": "Allocation method for the Public IP used to access the Virtual Machine.."
       }
     },
     "publicIpSku": {

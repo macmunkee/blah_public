@@ -5,14 +5,18 @@
     "adminUsername": {
       "type": "string",
       "metadata": {
-        "description": "Username for the Virtual Machine."
+        "description": "Username for the Virtual Machine SHIT SHIT."
       }
     },
     "adminPassword": {
       "type": "securestring",
       "minLength": 12,
       "metadata": {
+<<<<<<< HEAD
         "description": "Password for the Virtual Machine!!!!!."
+=======
+        "description": "Password for the Virtual Machine."
+>>>>>>> 9318f58e99a87a033f8adff7f59321d1e4b2312b
       }
     },
     "dnsLabelPrefix": {
@@ -37,7 +41,7 @@
         "Static"
       ],
       "metadata": {
-        "description": "Allocation method for the Public IP used to access the Virtual Machine."
+        "description": "Allocation method for the Public IP used to access the Virtual Machine.."
       }
     },
     "publicIpSku": {
